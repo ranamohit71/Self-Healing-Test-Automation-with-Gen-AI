@@ -1,0 +1,7 @@
+selenium
+langchain
+langchain-core
+langchain-ollama
+ollama
+pydantic
+pytest
